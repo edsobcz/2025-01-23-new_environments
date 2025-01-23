@@ -1,0 +1,10 @@
+name: my_env
+channels:
+  - r
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas=2.2.3
+  - python=3.13
+# prefix: C:\Users\sobcz\miniforge3\envs\my_env
